@@ -1,5 +1,5 @@
 🌟 BERI (Bespoke Education Retrieval Infrastructure)
-BERI is a student‑led, browser‑based Retrieval‑Augmented Generation (RAG) chatbot
+is a student‑led, browser‑based Retrieval‑Augmented Generation (RAG) chatbot
 designed to help users navigate Haberdashers’ Schools policies with clear, reliable source citations.
 
 Runs fully client‑side — everything happens in the browser
