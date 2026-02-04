@@ -6,6 +6,6 @@ Fast, lightweight querying of school policy documents
 Clear source citations for every answer
 A privacy‑first design: all processing happens on-device
 
-Énora Hauduc
+Énora Hauduc,
 Ravjoth Brar
 
